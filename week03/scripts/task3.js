@@ -9,6 +9,7 @@ function add(number1, number2){
     return number1 + number2;
 }
 
+
 // Step 3: Step 3: Using function declaration, define another function named addNumbers that gets the values of two HTML form controls with IDs of addend1 and addend2. Pass them to the add function
 // Step 4: Assign the return value to an HTML form element with an ID of sum
 
