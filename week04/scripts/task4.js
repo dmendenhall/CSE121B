@@ -3,17 +3,17 @@
 /* DATA */
 
 // Step 1: Declare a new variable to hold information about yourself
-
+let me = {};
 // Step 2: Inside of the object, add a property named name with a value of your name as a string
-
+me.name = "Dave Mendenhall";
 // Step 3: Add another property named photo with a value of the image path and name (used in Task 2) as a string
-
+me.photo = "images/dave_mendenhall.png";
 // Step 4: Add another property named favoriteFoods with a value of an array of your favorite foods as strings ( hint: [] )
-
+me.favoriteFoods = ["Lasagna", "Tacos", "Hamburgers"];
 // Step 5: Add another property named hobbies with a value of an array of your hobbies as strings
-
+me.hobbies = ["board games", "hiking", "camping", "reading"];
 // Step 6: Add another property named placesLived with a value of an empty array
-
+me.placesLived = [];
 // Step 7: Inside of the empty array above, add a new object with two properties: place and length and values of an empty string
 
 // Step 8: For each property, add appropriate values as strings
